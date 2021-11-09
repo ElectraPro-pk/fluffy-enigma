@@ -4,7 +4,7 @@ As the title suggest, this application lets you hear the sound made my different
 
 The sound produced has frequency based on the difference of the values of the elements that are being compared.
 
-You can checkout the demo [CHECK](https://bhen14.github.io/The-Sorting/).
+You can checkout the demo [CHECK](https://electrapro-pk.github.io/fluffy-enigma/).
 
 
 ## How to run it locally
